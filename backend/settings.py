@@ -110,7 +110,7 @@ CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5174",
-    "https://task-manager-frontend-liard-seven.vercel.app/",
+     "https://task-manager-frontend-liard-seven.vercel.app",
 ]
 
 STATIC_URL = '/static/'
